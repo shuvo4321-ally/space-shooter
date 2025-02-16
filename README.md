@@ -21,7 +21,7 @@ A 2D space shooter game built using **Python** and **OpenGL (GLUT)**, featuring 
 1. Move the spaceship to avoid obstacles and collect power-ups.  
 2. Shoot and destroy all blocks to win the game.  
 3. Survive as long as possible without losing all lives.  
-#https://github.com/user-attachments/assets/ae588649-27d9-4518-8d8d-41cb0b6bee82
+https://github.com/user-attachments/assets/ae588649-27d9-4518-8d8d-41cb0b6bee82
 ## 🚀 To-Do  
 - Add enemy AI for more challenge.  
 - Improve visual effects and animations.  
